@@ -1,6 +1,7 @@
 ### Hi there, 👋 I’m @ghhabib2 aka Habib also know as Tornado(🌪️)
 
 - 🤖 I’m interested in AI and ML.
+- I am alos intersted in teachig `GitHub`.
 - 📗 I’m currently learning techonologies related to audio signal analysis and image processing.
 - 🔭 I’m currently working on a project related to application of human voice in medical sience.
 - 📫 How to reach? You can email me via my academic email address at the address below:
