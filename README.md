@@ -3,7 +3,7 @@
 - 🤖 I’m interested in AI and ML.
 - I am alos intersted in teachig `GitHub`.
 - 📗 I’m am always learning whatever I think it would help me in my research.
-- 🔭 I’m currently working on a project related to application of human voice in medical sience.
+- 🔭 I’m currently working on a project related to application of signal processing and ML in Medical Sience.
 - 📫 How to reach? You can email me via my academic email address at the address below:
   `ghaffh1[alpha]mcmaster[beta]ca` where you should replace [alpha] with `AtSine` and 
   [beta] with `Dot`. I am sure you will figure this out if you are not a robot.😜 
